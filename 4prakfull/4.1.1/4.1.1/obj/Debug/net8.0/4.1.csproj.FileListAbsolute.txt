@@ -1,0 +1,14 @@
+C:\Users\agrich\Desktop\yaustal\3prakfull\4.1\4.1\bin\Debug\net8.0\4.1.exe
+C:\Users\agrich\Desktop\yaustal\3prakfull\4.1\4.1\bin\Debug\net8.0\4.1.deps.json
+C:\Users\agrich\Desktop\yaustal\3prakfull\4.1\4.1\bin\Debug\net8.0\4.1.runtimeconfig.json
+C:\Users\agrich\Desktop\yaustal\3prakfull\4.1\4.1\bin\Debug\net8.0\4.1.dll
+C:\Users\agrich\Desktop\yaustal\3prakfull\4.1\4.1\bin\Debug\net8.0\4.1.pdb
+C:\Users\agrich\Desktop\yaustal\3prakfull\4.1\4.1\obj\Debug\net8.0\4.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agrich\Desktop\yaustal\3prakfull\4.1\4.1\obj\Debug\net8.0\4.1.AssemblyInfoInputs.cache
+C:\Users\agrich\Desktop\yaustal\3prakfull\4.1\4.1\obj\Debug\net8.0\4.1.AssemblyInfo.cs
+C:\Users\agrich\Desktop\yaustal\3prakfull\4.1\4.1\obj\Debug\net8.0\4.1.csproj.CoreCompileInputs.cache
+C:\Users\agrich\Desktop\yaustal\3prakfull\4.1\4.1\obj\Debug\net8.0\4.1.dll
+C:\Users\agrich\Desktop\yaustal\3prakfull\4.1\4.1\obj\Debug\net8.0\refint\4.1.dll
+C:\Users\agrich\Desktop\yaustal\3prakfull\4.1\4.1\obj\Debug\net8.0\4.1.pdb
+C:\Users\agrich\Desktop\yaustal\3prakfull\4.1\4.1\obj\Debug\net8.0\4.1.genruntimeconfig.cache
+C:\Users\agrich\Desktop\yaustal\3prakfull\4.1\4.1\obj\Debug\net8.0\ref\4.1.dll

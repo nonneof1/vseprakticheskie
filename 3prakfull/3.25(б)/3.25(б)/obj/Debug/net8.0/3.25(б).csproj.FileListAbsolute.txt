@@ -1,0 +1,14 @@
+C:\Users\agrich\Desktop\yaustal\3prakfull\3.25(б)\3.25(б)\bin\Debug\net8.0\3.25(б).exe
+C:\Users\agrich\Desktop\yaustal\3prakfull\3.25(б)\3.25(б)\bin\Debug\net8.0\3.25(б).deps.json
+C:\Users\agrich\Desktop\yaustal\3prakfull\3.25(б)\3.25(б)\bin\Debug\net8.0\3.25(б).runtimeconfig.json
+C:\Users\agrich\Desktop\yaustal\3prakfull\3.25(б)\3.25(б)\bin\Debug\net8.0\3.25(б).dll
+C:\Users\agrich\Desktop\yaustal\3prakfull\3.25(б)\3.25(б)\bin\Debug\net8.0\3.25(б).pdb
+C:\Users\agrich\Desktop\yaustal\3prakfull\3.25(б)\3.25(б)\obj\Debug\net8.0\3.25(б).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agrich\Desktop\yaustal\3prakfull\3.25(б)\3.25(б)\obj\Debug\net8.0\3.25(б).AssemblyInfoInputs.cache
+C:\Users\agrich\Desktop\yaustal\3prakfull\3.25(б)\3.25(б)\obj\Debug\net8.0\3.25(б).AssemblyInfo.cs
+C:\Users\agrich\Desktop\yaustal\3prakfull\3.25(б)\3.25(б)\obj\Debug\net8.0\3.25(б).csproj.CoreCompileInputs.cache
+C:\Users\agrich\Desktop\yaustal\3prakfull\3.25(б)\3.25(б)\obj\Debug\net8.0\3.25(б).dll
+C:\Users\agrich\Desktop\yaustal\3prakfull\3.25(б)\3.25(б)\obj\Debug\net8.0\refint\3.25(б).dll
+C:\Users\agrich\Desktop\yaustal\3prakfull\3.25(б)\3.25(б)\obj\Debug\net8.0\3.25(б).pdb
+C:\Users\agrich\Desktop\yaustal\3prakfull\3.25(б)\3.25(б)\obj\Debug\net8.0\3.25(б).genruntimeconfig.cache
+C:\Users\agrich\Desktop\yaustal\3prakfull\3.25(б)\3.25(б)\obj\Debug\net8.0\ref\3.25(б).dll

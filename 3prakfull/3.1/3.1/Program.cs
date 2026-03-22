@@ -1,21 +1,22 @@
-﻿using System;
-
-class Program
+﻿namespace _3._1
 {
-    static void Main()
+    class Program
     {
-        Console.Write("Введите A (true/false): ");
-        bool A = bool.Parse(Console.ReadLine());
+        static void Main()
+        {
+            Console.Write("Введите A (true/false): ");
+            bool A = bool.Parse(Console.ReadLine());
 
-        Console.Write("Введите B (true/false): ");
-        bool B = bool.Parse(Console.ReadLine());
+            Console.Write("Введите B (true/false): ");
+            bool B = bool.Parse(Console.ReadLine());
 
-        bool a = !(!A && !B) && A;
-        bool b = !(!A || !B) || A;
-        bool c = !(!A || !B) && B;
+            bool a = !(!A && !B) && A;
+            bool b = !(!A || !B) || A;
+            bool c = !(!A || !B) && B;
 
-        Console.WriteLine($"а) {a}");
-        Console.WriteLine($"б) {b}");
-        Console.WriteLine($"в) {c}");
+            Console.WriteLine($"а) {a}");
+            Console.WriteLine($"б) {b}");
+            Console.WriteLine($"в) {c}");
+        }
     }
 }
