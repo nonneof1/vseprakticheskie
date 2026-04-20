@@ -56,7 +56,7 @@ namespace calc
                 if (divisionByZeroAttempts >= 3)
                 {
                     
-                    textBox1.Text = "Ќа ноль делить нельз€!";
+                    textBox1.Text = "€ знал что провер€т";
                     divisionByZeroAttempts = 0; 
                     currentValue = 0;
                     currentOperation = "";
